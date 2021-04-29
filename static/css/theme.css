@@ -11,7 +11,7 @@ Primary use:	Open Source
 [LAYOUT]
 
 * body
-    + Header / header
+    + Header / headerMetaData
 	+ Page Content / .page-content .name-page
         + Section Layouts / section .name-section
         ...

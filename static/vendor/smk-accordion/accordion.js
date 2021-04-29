@@ -341,7 +341,7 @@
 		/**
 		 * Open on click
 		 *
-		 * Open a section when its header get a click.
+		 * Open a section when its headerMetaData get a click.
 		 *
 		 * @return void
 		 */
